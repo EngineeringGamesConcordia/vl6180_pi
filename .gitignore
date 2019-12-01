@@ -3,4 +3,8 @@
 *.a
 *.so
 
+.idea/
 test-vl6180_pi
+build/
+cmake-build-debug/
+cmake-build-release/
